@@ -6,7 +6,7 @@
     "reportLink": "allure-report/",
     "language": "ru",
     "allureFolder": "allure-report/",
-    "enableChart": false,
+    "enableChart": true,
     "durationFormat": "HH:mm:ss.SSS"
   },
   "telegram": {
