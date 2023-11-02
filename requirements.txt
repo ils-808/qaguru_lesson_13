@@ -1,0 +1,5 @@
+pytest~=7.4.2
+selene==2.0.0rc4
+allure-pytest
+selenium~=4.14.0
+pydantic-settings

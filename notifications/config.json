@@ -1,0 +1,16 @@
+{
+  "base": {
+    "project": "todomvc",
+    "environment": "prod",
+    "comment": "some comment @itqakz",
+    "reportLink": "allure-report/",
+    "language": "ru",
+    "allureFolder": "allure-report/",
+    "enableChart": false,
+    "durationFormat": "HH:mm:ss.SSS"
+  },
+  "telegram": {
+    "token": "6826505106:AAG7rNCL8NsXwr4Wke-Zc5F_Anaenpu4zZs",
+    "chat": "-1001994148088"
+  }
+}
