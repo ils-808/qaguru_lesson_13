@@ -4,7 +4,7 @@
     "environment": "prod",
     "comment": "some comment @itqakz",
     "reportLink": "allure-report/",
-    "language": "ru",
+    "language": "en",
     "allureFolder": "allure-report/",
     "enableChart": true,
     "durationFormat": "HH:mm:ss.SSS"

@@ -18,7 +18,7 @@ class Configure(pydantic_settings.BaseSettings):
     height: str = '1080'
     width: str = '1920'
     base_url: str = 'https://todomvc.com/examples/knockoutjs/'
-    run_remote: bool = False
+    run_remote: bool = True
 
 
 config = Configure(_env_file=path('.env'))
