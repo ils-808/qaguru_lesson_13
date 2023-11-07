@@ -4,9 +4,9 @@
     "environment": "prod",
     "comment": "some comment @itqakz",
     "reportLink": "allure-report/",
-    "language": "en",
+    "language": "ru",
     "allureFolder": "allure-report/",
-    "enableChart": true,
+    "enableChart": false,
     "durationFormat": "HH:mm:ss.SSS"
   },
   "telegram": {
