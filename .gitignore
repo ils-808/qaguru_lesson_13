@@ -1,5 +1,5 @@
 # Allure
-tests/allure-results
+allure-results
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -156,5 +156,4 @@ dmypy.json
 cython_debug/
 
 .idea/
-/notifications/allure-notifications-4.5.0.jar
 /allure-report
